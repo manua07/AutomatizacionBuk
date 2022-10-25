@@ -1,0 +1,12 @@
+co/buk/test/certificate/userinterface/HomePage.java
+ co.buk.test.certificate.userinterface.HomePage
+co/buk/test/certificate/userinterface/CheckOutDestinationPage.java
+ co.buk.test.certificate.userinterface.CheckOutDestinationPage
+co/buk/test/certificate/task/CheckOutDestinationTask.java
+ co.buk.test.certificate.task.CheckOutDestinationTask
+co/buk/test/certificate/userinterface/LoginPage.java
+ co.buk.test.certificate.userinterface.LoginPage
+co/buk/test/certificate/task/LoginTask.java
+ co.buk.test.certificate.task.LoginTask
+co/buk/test/certificate/userinterface/SelectDestinationPage.java
+ co.buk.test.certificate.userinterface.SelectDestinationPage

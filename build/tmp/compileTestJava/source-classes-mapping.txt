@@ -1,0 +1,12 @@
+co/buk/test/certificate/runners/SelectDestinationRunner.java
+ co.buk.test.certificate.runners.SelectDestinationRunner
+co/buk/test/certificate/stepsdefinitions/LoginStepsDefinitions.java
+ co.buk.test.certificate.stepsdefinitions.LoginStepsDefinitions
+co/buk/test/certificate/runners/CheckOutDestinationRunner.java
+ co.buk.test.certificate.runners.CheckOutDestinationRunner
+co/buk/test/certificate/stepsdefinitions/SelectDestinationStepsDefinitions.java
+ co.buk.test.certificate.stepsdefinitions.SelectDestinationStepsDefinitions
+co/buk/test/certificate/runners/LoginRunner.java
+ co.buk.test.certificate.runners.LoginRunner
+co/buk/test/certificate/stepsdefinitions/CheckOutDestinationStepsDefinitions.java
+ co.buk.test.certificate.stepsdefinitions.CheckOutDestinationStepsDefinitions
